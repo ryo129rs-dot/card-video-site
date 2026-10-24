@@ -1,0 +1,19 @@
+{
+  "name": "トレカ収支帳",
+  "short_name": "トレカ収支帳",
+  "description": "iPhone用トレカ仕入れ・売却・在庫・利益管理",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#061323",
+  "theme_color": "#071629",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
